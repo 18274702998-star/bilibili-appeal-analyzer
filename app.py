@@ -31,7 +31,7 @@ with col1:
     # 读取并展示规则库
     try:
         # 注意：这里保留你之前的路径
-        with open("creator_appeal_analyzer/bilibili_rules.txt", "r", encoding="utf-8") as f:
+        with open("bilibili_rules.txt", "r", encoding="utf-8") as f:
             rules_text = f.read()
         st.expander("B站社区规则库").text_area("规则详情", rules_text, height=400, disabled=True)
     except FileNotFoundError:
