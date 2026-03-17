@@ -3,7 +3,7 @@ B站创作者申诉智能管理后台(Bilibili Creator Appeal AI Manager)
 项目背景：针对B站内容安全业务中“创作者申诉情绪对抗”与“判罚规则理解门槛高”的痛点，打造的一套基于AI策略的申诉分流与反馈闭环原型。
 
 🔗在线演示
-点击访问实时Demo(注：若显示Sleeping，请点击页面按钮唤醒，约需30秒)
+点击访问实时[Demo](https://bilibili-appeal-analyzer.streamlit.app/)(注：若显示Sleeping，请点击页面按钮唤醒，约需30秒)
 
 🎯核心业务逻辑
 本项目推翻了传统的“匀速审核”思维，通过AI实现场景化分流治理：
